@@ -77,7 +77,7 @@ You have these options:
 ~ weapon_type = <Sniper>
 -> cave_mouth
 
-You have face a lot of danger so it's important to keep your health up. Here are locations where you can find health packs.
+You will face a lot of danger so it's important to keep your health up. Here are locations where you can find health packs.
 
 *[Vending Machines]
 ~ health packs = +Vending machines+
